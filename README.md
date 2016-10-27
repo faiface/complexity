@@ -59,7 +59,7 @@ number, `N` and `Time`, like this:
 Now, run the program and see the result!
 
 ```
-$ complexity < data.txt
+$ complexity data.txt
 O(n log n)
 ```
 
