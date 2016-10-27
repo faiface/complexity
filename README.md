@@ -45,7 +45,7 @@ is the time (in whatever unit, e.g. seconds) your program ran for on
 the specific input.
 
 Put this data into a file, where each line contains exactly two
-number, `N` and `Time`, like this:
+numbers, `N` and `Time`, like this:
 
 ```
 10 0.04185679
