@@ -12,8 +12,8 @@ be the most prevalent one.
 To learn more about asymptotic complexity and big-O notation (used to
 anotate it), visit:
 
-<https://en.wikipedia.org/wiki/Big_O_notation>
-<https://en.wikipedia.org/wiki/Computational_complexity_theory>
+* <https://en.wikipedia.org/wiki/Big_O_notation>
+* <https://en.wikipedia.org/wiki/Computational_complexity_theory>
 
 ## What is this program for?
 
