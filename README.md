@@ -40,7 +40,6 @@ you. All you have to do is to measure a simple table of this form:
 |  10000 |  41.85855881 |
 | 100000 | 522.87088523 |
 
-
 The `N` column represents the size of the input and the `Time` column
 is the time (in whatever unit, e.g. seconds) your program ran for on
 the specific input.
