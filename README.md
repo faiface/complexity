@@ -33,7 +33,7 @@ This utility calculates the time or space complexity of your for
 you. All you have to do is to measure a simple table of this form:
 
 |      N |         Time |
-|:-------|-------------:|
+|--------|--------------|
 |     10 |   0.04185679 |
 |    100 |   0.24053579 |
 |   1000 |   3.16843691 |
