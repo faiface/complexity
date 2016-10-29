@@ -2,5 +2,5 @@
 	Meno: Michal Štrba
 	Email: faiface [at] ksp [dot] sk
 Vedúci
-	Meno: Michal Foríšek
+	Meno: Michal Forišek
 	Email: misof [at] ksp [dot] sk
