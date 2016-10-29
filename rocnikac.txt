@@ -1,0 +1,6 @@
+Študent
+	Meno: Michal Štrba
+	Email: faiface [at] ksp [dot] sk
+Vedúci
+	Meno: Michal Foríšek
+	Email: misof [at] ksp [dot] sk
